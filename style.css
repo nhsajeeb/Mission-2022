@@ -1,5 +1,9 @@
 body{
     font-family: 'Roboto', sans-serif;
+    margin-top: 50px ;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 h1{
     font-size: 50px;
@@ -9,6 +13,7 @@ h1{
 }
 section{
     display: flex;
+    padding-top: 3%;
 }
 .half-width{
     width: 50%;
@@ -16,6 +21,7 @@ section{
 }
 .half-width img{
     width: 100%;
+    padding-top: 30px;
 }
 .link{
     text-decoration: none;
@@ -27,7 +33,7 @@ section{
 }
 h2{
     text-align: center;
-    font-family: 700;
+    font-weight: 700;
 }
 .Year{
     color: rgb(253, 111, 59);
@@ -59,4 +65,33 @@ h2{
   }
   .background-color-3{
     background-color: rgb(247, 235, 219);
+  }
+  .photo img{
+    width: 80%;
+    padding-top: 0px;
+  }
+  .fun{
+   padding-top: 100px;
+   padding: 2%;
+  }
+  .appohoto img{
+    width: 100%;
+    padding: 2%;
+  }
+  .portal{
+    padding: 10%;
+  }
+  footer{
+      text-align: center;
+      color: rgb(255, 255, 255);
+      background-color: black;
+      margin-top: 200px;
+      background-position: 10%;
+      background-size: 500px 200px
+  }
+  .border-slice{
+    border-left: 4px solid;
+    border-image: linear-gradient(rgb(41, 40, 39),tomato);
+    border-image-slice: 1;
+   padding-left: 15px;
   }
