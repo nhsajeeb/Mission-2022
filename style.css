@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: rgb(253, 111, 59);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 1%;
+}
+.half-width img{
+    width: 90%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 191, 72), rgb(250, 70, 70));
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: azure;
+    font-weight: 500;
+}
