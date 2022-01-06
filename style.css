@@ -35,3 +35,28 @@ h2{
 .flexible-container{
     display: flex;
 }
+#illustrators{
+    width: 40%;
+   
+  }
+  .box-shadow{
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 19px;
+    margin-right: 21px;
+    padding-left: 15px;
+    padding-right: 18px;
+    border-radius: 10px;
+  }
+  .mission-three{
+    margin-left: 80px;
+    margin-right: 70px;
+  }
+  .background-color-1{
+    background-color: rgb(227, 247, 247);
+  }
+  .background-color-2{
+    background-color: rgb(253, 244, 245);
+  }
+  .background-color-3{
+    background-color: rgb(247, 235, 219);
+  }
