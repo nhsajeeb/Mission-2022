@@ -25,3 +25,13 @@ section{
     color: azure;
     font-weight: 500;
 }
+h2{
+    text-align: center;
+    font-family: 700;
+}
+.Year{
+    color: rgb(253, 111, 59);
+}
+.flexible-container{
+    display: flex;
+}
